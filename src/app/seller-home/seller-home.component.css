@@ -1,0 +1,36 @@
+.product-list{
+
+  margin-left: 16rem;
+}
+h1{
+  margin-left: 23rem;
+  color: blueviolet;
+}
+table{
+
+  color: blueviolet;
+  border-collapse:collapse;
+  text-align: left;
+}
+
+table td ,table th{
+  border: 1px solid black;
+  padding: 5px 40px;
+  min-height: 160px;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
+
+.adjust-update-link{
+  margin-left: 13px;
+  font-size: 1.2rem;
+  color: green;
+}
+
+.adjust-delete-link{
+  color: red;
+  font-size: 1.2rem;
+}

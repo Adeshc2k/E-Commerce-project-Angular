@@ -1,0 +1,126 @@
+{
+  "seller": [
+    {
+      "name": "adesh gawade",
+      "email": "gawade@123.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "vikas",
+      "password": "vikas123",
+      "email": "vikas@123.com",
+      "id": 2
+    },
+    {
+      "name": "akshay",
+      "password": "1234",
+      "email": "akshay@123.com",
+      "id": 3
+    },
+    {
+      "name": "Adesh Gawade",
+      "password": "asdfghj",
+      "email": "gawadeadesh17@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "imran",
+      "password": "asd",
+      "email": "asd@ert.com",
+      "id": 5
+    },
+    {
+      "name": "imran",
+      "password": "asd",
+      "email": "asd@ert.com",
+      "id": 6
+    },
+    {
+      "name": "kran",
+      "password": "ah123",
+      "email": "karan@qwe",
+      "id": 7
+    },
+    {
+      "name": "xys",
+      "password": "smdbfh",
+      "email": "asd@ert.com",
+      "id": 8
+    },
+    {
+      "name": "sdfghj",
+      "password": "asdfgh",
+      "email": "asdfgh",
+      "id": 9
+    },
+    {
+      "name": "sdfaswdasd",
+      "password": "asd",
+      "email": "asd@ert.com",
+      "id": 10
+    },
+    {
+      "name": "sdfaswdasd",
+      "password": "asd",
+      "email": "asd@ert.com",
+      "id": 11
+    },
+    {
+      "name": "sdfaswdasd",
+      "password": "asd",
+      "email": "asd@ert.com",
+      "id": 12
+    },
+    {
+      "name": "weer",
+      "password": "werrtt",
+      "email": "nilesh@12.com",
+      "id": 13
+    },
+    {
+      "name": "asd",
+      "password": "asd",
+      "email": "ads",
+      "id": 14
+    },
+    {
+      "name": "asdf",
+      "password": "asdasd",
+      "email": "asdf",
+      "id": 15
+    },
+    {
+      "name": "asdf",
+      "password": "asd",
+      "email": "asd",
+      "id": 16
+    },
+    {
+      "name": "qwed",
+      "password": "qws",
+      "email": "qwsd",
+      "id": 17
+    }
+  ],
+  "products": [
+    {
+      "name": "laptop hp",
+      "Price": "1000",
+      "color": "black",
+      "category": "laptop",
+      "discription": "it is very good",
+      "Image": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._SL1000_.jpg",
+      "id": 1
+    },
+    {
+      "name": "i phone 14",
+      "Price": "50000",
+      "color": "white",
+      "category": "mobile",
+      "discription": "good",
+      "Image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-r1.jpg",
+      "id": 2
+    }
+  ]
+}
