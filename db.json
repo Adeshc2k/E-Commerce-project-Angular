@@ -101,26 +101,162 @@
       "password": "qws",
       "email": "qwsd",
       "id": 17
+    },
+    {
+      "name": "Adesh Gawade",
+      "password": "adi123",
+      "email": "gawadeadesh17@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "karan",
+      "password": "kk123",
+      "email": "nilesh@12.com",
+      "id": 19
+    },
+    {
+      "name": "vikas",
+      "password": "v123",
+      "email": "vikas@123.com",
+      "id": 20
+    },
+    {
+      "name": "akshay",
+      "password": "12234",
+      "email": "nilesh@12.com",
+      "id": 21
     }
   ],
   "products": [
     {
-      "name": "laptop hp",
-      "Price": "1000",
-      "color": "black",
+      "name": "oppo",
+      "Price": "15000",
+      "color": "blue",
+      "category": "mobile",
+      "discription": "new launch",
+      "Image": "https://image.oppo.com/content/dam/oppo/in/mkt/phonelist/products/reno3-pro-blue.png",
+      "id": 3
+    },
+    {
+      "name": "vivo v17",
+      "Price": "22222",
+      "color": "red",
+      "category": "mobile",
+      "discription": "it new generation mobile",
+      "Image": "https://5.imimg.com/data5/SELLER/Default/2022/5/KG/EH/ER/140629936/vivo-v23-5g-mobile-1000x1000.jpg",
+      "id": 4
+    },
+    {
+      "name": "I 3 hp new ",
+      "Price": "50000",
+      "color": "green",
       "category": "laptop",
-      "discription": "it is very good",
-      "Image": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._SL1000_.jpg",
+      "discription": "new world new something",
+      "Image": "https://www.hp.com/ca-en/shop/Html/Merch/Images/c08000160_1750x1285.jpg",
+      "id": 5
+    },
+    {
+      "name": "digital watch",
+      "Price": "10000",
+      "color": "black",
+      "category": "watch",
+      "discription": "now in digital world",
+      "Image": "https://media.istockphoto.com/id/509464671/photo/smart-watch.jpg?s=612x612&w=0&k=20&c=RDYfeSMutwJ778pweCYQwIvFKAcNCni5_m5B-iLkDZs=",
+      "id": 6
+    },
+    {
+      "name": "T-shirt",
+      "Price": "500",
+      "color": "red",
+      "category": "cloths",
+      "discription": "cotton shirts",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/l34ry4w0/shirt/w/g/k/l-mk-red-03-mahakal-stores-original-imagebdmstrggzqt.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "name": "punjabi dress",
+      "Price": "2000",
+      "color": "red",
+      "category": "cloths",
+      "discription": "good quality",
+      "Image": "https://diwalistyle.com/wp-content/uploads/2021/12/razzle-dazzle-red-color-sequence-work-party-wear-sharara-suit-3.jpeg",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "Adesh Gawade",
+      "email": "gawadeadesh17@gmail.com",
+      "password": "1234",
       "id": 1
     },
     {
-      "name": "i phone 14",
-      "Price": "50000",
-      "color": "white",
-      "category": "mobile",
-      "discription": "good",
-      "Image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-r1.jpg",
+      "name": "Adesh Gawade",
+      "email": "vikas@123.com",
+      "password": "1234",
       "id": 2
+    },
+    {
+      "name": "Adesh Gawade",
+      "email": "vikas@123.com",
+      "password": "vikas123",
+      "id": 3
+    },
+    {
+      "name": "vikas",
+      "email": "vikas@123.com",
+      "password": "vikas123",
+      "id": 4
+    },
+    {
+      "name": "akshay",
+      "email": "vikas@123.com",
+      "password": "vikas123",
+      "id": 5
+    },
+    {
+      "name": "Adesh Gawade",
+      "email": "gawadeadesh17@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "name": "akshay",
+      "email": "imaran@123.com",
+      "password": "12345t6y",
+      "id": 7
+    },
+    {
+      "name": "karan",
+      "email": "karan@123",
+      "password": "kk123",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "digital watch",
+      "Price": "10000",
+      "color": "black",
+      "category": "watch",
+      "discription": "now in digital world",
+      "Image": "https://media.istockphoto.com/id/509464671/photo/smart-watch.jpg?s=612x612&w=0&k=20&c=RDYfeSMutwJ778pweCYQwIvFKAcNCni5_m5B-iLkDZs=",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 6,
+      "id": 1
+    },
+    {
+      "name": "vivo v17",
+      "Price": "22222",
+      "color": "red",
+      "category": "mobile",
+      "discription": "it new generation mobile",
+      "Image": "https://5.imimg.com/data5/SELLER/Default/2022/5/KG/EH/ER/140629936/vivo-v23-5g-mobile-1000x1000.jpg",
+      "quantity": 3,
+      "userId": 3,
+      "productId": 4,
+      "id": 3
     }
   ]
 }

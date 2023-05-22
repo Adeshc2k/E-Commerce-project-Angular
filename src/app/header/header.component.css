@@ -33,6 +33,7 @@
 .nav li a{
   text-decoration: none;
   color: #fff;
+  cursor: pointer;
 }
 
 .nav .nav-search{
@@ -44,29 +45,57 @@
 }
 .nav .nav-search input{
    width: 50%;
-  color: #fff;
+  color: black;
   border: none;
   height: 35px;
   border-right: 0px;
   border-radius: 10px;
   margin-left: 9rem;
   font-size: 1rem;
+  border: none;
+  outline: none;
 }
 
 .nav .nav-search button{
 
   color: blueviolet;
   border: 1px solid #fff;
-  height: 37px;
+  height: 35px;
   border-left: 0px;
   border-radius: 10px;
   background-color: #fff;
   margin-left: -15px;
   font-size: 1rem;
 
+
 }
 
 h1 a{
   color: #fff;
   text-decoration: none;
+}
+
+.search{
+  color: black;
+}
+
+.suggested-result{
+  position: absolute;
+  display: list-item !important;
+  z-index: 10;
+  background-color: #fff;
+  width: 300px;
+  top: 50px;
+  border: 1px solid #ddd;
+  left: 460px;
+}
+
+.suggested-result  li{
+  border: 1px solid #ddd;
+  padding:5px;
+}
+
+.suggested-result  li a{
+  cursor: pointer;
+  color: blueviolet;
 }

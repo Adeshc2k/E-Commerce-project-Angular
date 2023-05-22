@@ -10,9 +10,9 @@ text-align: center;
 display: flex;
 margin: auto;
 flex-direction: column;
-width: 300px;
+width: 400px;
 border: 1px solid black;
-padding: 3%;
+padding: 4%;
 }
 
 .form-input{
@@ -46,4 +46,21 @@ font-size: 1rem;
 
 .message-p{
   color: green;
+}
+
+.carousel-caption{
+  background-color:#00000082 ;
+  border-radius: 5px;
+}
+
+.carousel-control-next-icon,.carousel-control-prev-icon{
+  background-color: black;
+  border: 5px;
+}
+
+.inavlid-input{
+  color: red;
+  font-size: 13px;
+  margin-left: -8rem;
+  margin-top: -1rem;
 }
